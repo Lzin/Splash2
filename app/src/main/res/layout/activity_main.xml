@@ -60,7 +60,7 @@
             <RadioButton
                 android:id="@+id/rb_main_beijing"
                 android:drawableTop="@drawable/selector_main_top_tab_shanghai"
-                android:text="@string/str_main_shanghai"
+                android:text="@string/str_main_beijing"
                 style="@style/main_tab_rb_style" />
 
             <RadioButton
@@ -68,7 +68,7 @@
                 android:drawableTop="@drawable/selector_main_top_tab_hangzhou"
                 android:layout_width="@dimen/dp_0"
                 style="@style/main_tab_rb_style"
-                android:text="@string/str_main_hangzhou" />
+                android:text="@string/str_main_shenzhen" />
         </RadioGroup>
     </FrameLayout>
 
